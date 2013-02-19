@@ -7,5 +7,20 @@
   <packaging>pom</packaging>
   <modules>
     <module>SCJP-Strings</module>
+    <module>SCJP-Accessmodifiers</module>
+    <module>SCJP-Arrays</module>
+    <module>SCJP-Boxing</module>
+    <module>SCJP-Collections</module>
+    <module>SCJP-Constructors</module>
+    <module>SCJP-Enums</module>
+    <module>SCJP-Exceptions</module>
+    <module>SCJP-GC</module>
+    <module>SCJP-IO</module>
+    <module>SCJP-IninBlocks</module>
+    <module>SCJP-Interfaces</module>
+    <module>SCJP-Operators</module>
+    <module>SCJP-Passing</module>
+    <module>SCJP-Polymorphism</module>
+    <module>SCJP-Serialisation</module>
   </modules>
 </project>
