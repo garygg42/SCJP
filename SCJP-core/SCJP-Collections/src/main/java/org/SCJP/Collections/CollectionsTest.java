@@ -65,7 +65,6 @@ class MyClass implements Comparable<MyClass> {
         return "" + a;
     }
 
-    @Override
     public int compareTo(MyClass o) {
         if (this.getA() < o.getA()) {
             return -1;

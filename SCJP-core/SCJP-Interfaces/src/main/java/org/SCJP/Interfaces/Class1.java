@@ -21,12 +21,10 @@ public class Class1 extends AbstractClass implements Interface3 {
 
     }
 
-    @Override
     public void methodi1() {
 
     }
 
-    @Override
     public void methodi2() {
 
     }
