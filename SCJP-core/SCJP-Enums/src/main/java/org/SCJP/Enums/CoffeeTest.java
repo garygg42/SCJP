@@ -1,4 +1,4 @@
-package scjp.enums;
+package org.SCJP.Enums;
 
 public class CoffeeTest {
     CoffeeSize size;

@@ -1,3 +1,5 @@
+package org.SCJP.Operators;
+
 public class OperatorsTest {
 
     /**

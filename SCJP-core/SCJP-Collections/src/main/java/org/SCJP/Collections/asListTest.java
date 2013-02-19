@@ -1,3 +1,5 @@
+package org.SCJP.Collections;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -26,7 +28,7 @@ public class asListTest {
         }
         System.out.println();
 
-        System.out.println("-------------------наоборот-------------------");
+        System.out.println("-------------------пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-------------------");
 
         Integer[] b = {};
         List<Integer> myListB = new ArrayList<Integer>();

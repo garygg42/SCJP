@@ -1,3 +1,5 @@
+package org.SCJP.GC;
+
 import java.util.Date;
 
 public class CheckGC {

@@ -1,4 +1,4 @@
-package scjp.interfaces;
+package org.SCJP.Interfaces;
 
 public class Class1 extends AbstractClass implements Interface3 {
 

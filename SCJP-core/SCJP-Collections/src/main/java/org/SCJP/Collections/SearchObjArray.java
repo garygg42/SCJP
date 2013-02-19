@@ -1,3 +1,5 @@
+package org.SCJP.Collections;
+
 import java.util.*;
 
 class SearchObjArray {

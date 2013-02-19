@@ -1,3 +1,5 @@
+package org.SCJP.Serialisation;
+
 import java.io.*;
 
 class Cat implements Serializable {

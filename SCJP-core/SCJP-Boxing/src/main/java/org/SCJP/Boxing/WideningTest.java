@@ -1,3 +1,5 @@
+package org.SCJP.Boxing;
+
 public class WideningTest {
 
     public static void method(int a) {

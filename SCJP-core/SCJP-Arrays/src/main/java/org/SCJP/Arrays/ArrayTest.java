@@ -1,3 +1,5 @@
+package org.SCJP.Arrays;
+
 public class ArrayTest {
 
     static void test(Object o) {

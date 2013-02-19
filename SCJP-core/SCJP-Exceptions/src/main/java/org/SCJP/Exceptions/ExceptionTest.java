@@ -1,3 +1,5 @@
+package org.SCJP.Exceptions;
+
 public class ExceptionTest {
 
     /**

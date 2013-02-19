@@ -1,4 +1,4 @@
-package scjp.interfaces;
+package org.SCJP.Interfaces;
 
 public abstract class AbstractClass {
     abstract public void am1();

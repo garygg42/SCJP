@@ -1,3 +1,5 @@
+package org.SCJP.Passing;
+
 public class PassingTest {
 
     static void primitives(int a) {

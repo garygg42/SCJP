@@ -1,3 +1,5 @@
+package org.SCJP.InitBlocks;
+
 public class InitBlocksTest {
 
     /**
