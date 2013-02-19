@@ -22,5 +22,6 @@
     <module>SCJP-Passing</module>
     <module>SCJP-Polymorphism</module>
     <module>SCJP-Serialisation</module>
+	<module>SCJP-Threads</module>
   </modules>
 </project>
